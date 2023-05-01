@@ -1,4 +1,4 @@
-# Mini-size Discord themes by [Saltssaumure](https://github.com/Saltssaumure).
+# Mini-size Discord themes by [Saltssaumure](https://github.com/Saltssaumure)
 
 ## Currently supported client mods
 - [BetterDiscord](https://betterdiscord.app/)
@@ -6,7 +6,7 @@
 - [Vencord](https://github.com/Vendicated/Vencord)
 
 ## License
-All themes in this organisation use the [MIT License](https://github.com/MiniDiscordThemes/.github/blob/main/LICENSE).
+All themes in this organisation use the [MIT License](https://github.com/MiniDiscordThemes/.github/blob/main/profile/LICENSE).
 
 ## Full-size Discord themes
 - [piOS](https://github.com/Saltssaumure/pios-discord-theme) - Superhot piOS inspired
