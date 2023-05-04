@@ -1,5 +1,7 @@
 # Mini-size Discord themes by [Saltssaumure](https://github.com/Saltssaumure)
 
+[![Donate via ko-fi](https://img.shields.io/badge/Donate-ko--fi-orange?style=flat-square&logo=kofi)](https://ko-fi.com/saltssaumure)
+
 ## Currently supported client mods
 - [BetterDiscord](https://betterdiscord.app/)
 - [Replugged](https://replugged.dev/)
