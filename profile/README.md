@@ -1,19 +1,15 @@
-# Mini-size Discord themes by [Saltssaumure](https://github.com/Saltssaumure)
+## The home of Discord mini-themes and snippets
 
 [![Donate via ko-fi](https://img.shields.io/badge/Donate-ko--fi-orange?style=flat-square&logo=kofi)](https://ko-fi.com/saltssaumure)
 
-## Currently supported client mods
+## Supported client mods
+The following are the client mods currently used for development and testing. However, feel free to submit issues for bugs seen on any desktop client mod.
 - [BetterDiscord](https://betterdiscord.app/)
 - [Replugged](https://replugged.dev/)
-- [Vencord](https://github.com/Vendicated/Vencord)
+- [Vencord](https://vencord.dev/) in [Vesktop](https://github.com/Vencord/Vesktop)
 
-## License
-All themes in this organisation use the [MIT License](https://github.com/MiniDiscordThemes/.github/blob/main/profile/LICENSE).
+## Licenses
+The MIT license applies to all themes and snippets in this organisation - free to use and distribute as long as the credit and license is preserved.
 
-## Full-size Discord themes
-- [piOS](https://github.com/Saltssaumure/pios-discord-theme) - Superhot piOS inspired
-- [Exponent](https://github.com/Saltssaumure/xp-discord-theme) - Windows XP style
-- [Logarithm](https://github.com/Saltssaumure/xp2-discord-theme) - Another Windows XP style
-- [NineX](https://github.com/Saltssaumure/w9x-discord-theme) - Windows 9x style
-- [Synthesis](https://github.com/Saltssaumure/synthesis-discord-theme) - Vibrant neon synthwave
-- [IEYTD](https://github.com/Saltssaumure/ieytd-discord-theme) - I Expect You To Die intro inspired
+## Questions and suggestions
+The best method of reporting bugs is creating an issue or pull request in the repository. You can also [join the Discord support server](https://discord.gg/uy8nKQVatp) or [send an email](mailto:themes@saltssaumure.net) for support or general suggestions.
